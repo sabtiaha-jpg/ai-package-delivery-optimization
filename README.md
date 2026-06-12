@@ -1,10 +1,7 @@
----
-# Package Delivery Optimization 🚚
-
+# Package Delivery Optimization 
 **Birzeit University — ENCS3340 Artificial Intelligence, Project #1**
 Prepared by: Sabtiah Asad (1221960) & Waed Asad (1220882)
 Supervisor: Dr. Samah Alaydi
----
 
 ## Overview
 
@@ -14,17 +11,13 @@ Two optimization algorithms are implemented:
 
 - **Genetic Algorithm (GA)** — evolves a population of candidate solutions over many generations via crossover and mutation.
 - **Simulated Annealing (SA)** — probabilistically accepts worse solutions early on to escape local minima, gradually cooling to refine the result.
-
 ---
-
 ## Project Structure
-
 ```
 AI-PROJECT/
 ├── code.py        # Main program
 └── input.txt      # Packages dataset
 ```
-
 ---
 
 ## How to Run
